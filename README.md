@@ -1,47 +1,41 @@
 # SCT_DS_4
-Exploratory Data Analysis and insightful visualizations on the US Accidents (March 2023) dataset. Includes Google Colab-compatible Python notebooks for analyzing traffic patterns related to weather, road conditions, and time of day.
+Exploratory Data Analysis and insightful visualizations on a real-world Traffic Accident dataset. This Google Colab-compatible notebook analyzes traffic patterns related to weather, road conditions, and time of day — helping uncover accident hotspots and contributing factors.
 
-# 📌** Objective **
-🔹Analyze a large real-world US accidents dataset to:
+📌 Objective
+🔹 Analyze a real traffic accident dataset to:
 
-🔹Identify common weather conditions during accidents.
+Identify common weather conditions during accidents
 
-🔹Study accident frequency by time of day.
+Study accident frequency by hour of the day
 
-🔹Visualize accident distribution by US state.
+Visualize accident distribution by road surface condition
 
-🔹Provide insights to help improve road safety and traffic management.
+Provide insights for better road safety and traffic management
 
-# 📁** Files Included **
-⚫Prabhas_task_4.ipynb — Google Colab-ready notebook covering:
+📁 Files Included
+Prabhas_task_4.ipynb — A ready-to-run Colab notebook covering:
 
-⚫Data upload instructions for large CSVs.
+CSV upload and reading instructions
 
-⚫Data cleaning and feature engineering.
+Data cleaning and feature extraction
 
-⚫Visualizations: top weather conditions, hourly accident trends, state-wise hotspots.
+Visualizations: top weather conditions, hourly trends, and road surface impact
 
-⚫Clear, interpretable charts using seaborn and matplotlib.
+Clean, easy-to-interpret charts using seaborn and matplotlib
 
-# 🔑** Key Steps **
-✳️Data Source: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+🔑 Key Steps
+✳️ Data Source: Traffic Accident Dataset (Kaggle)
+✳️ Preprocessing: Handle missing values and extract time-based insights
+✳️ Visualization: Count plots for weather, hourly distribution, and road surface type
+✳️ Insights: Spot accident hotspots and understand risk factors
 
-✳️Preprocessing: Handling missing values and extracting useful time features.
+🛠️ Tools Used
+📍 Python
+📍 pandas
+📍 seaborn
+📍 matplotlib
+📍 Google Colab
 
-✳️Visualization: Count plots for weather conditions, hourly patterns, and state distribution.
+🚀 Outcome
+This project demonstrates how to handle and analyze a real-world traffic dataset, discover when and why accidents are most likely to occur, and create clear visual stories that aid urban planners and traffic safety stakeholders.
 
-✳️Insights: Discover accident hotspots and understand contributing factors.
-
-# 🛠️** Tools Used **
-📍Python
-
-📍pandas
-
-📍seaborn
-
-📍matplotlib
-
-📍Google Colab
-
-# 🚀** Outcome **
-This project demonstrates how to handle and analyze a large, real-world traffic dataset. It shows how to extract key patterns about when and where accidents occur, and how weather conditions affect them — providing valuable insights for urban planners and road safety analysts.
