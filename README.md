@@ -13,15 +13,15 @@ Exploratory Data Analysis and insightful visualizations on the US Accidents (Mar
 🔹Provide insights to help improve road safety and traffic management.
 
 # 📁** Files Included **
-▪️Prabhas_task_4.ipynb — Google Colab-ready notebook covering:
+⚫Prabhas_task_4.ipynb — Google Colab-ready notebook covering:
 
-▪️Data upload instructions for large CSVs.
+⚫Data upload instructions for large CSVs.
 
-▪️Data cleaning and feature engineering.
+⚫Data cleaning and feature engineering.
 
-▪️Visualizations: top weather conditions, hourly accident trends, state-wise hotspots.
+⚫Visualizations: top weather conditions, hourly accident trends, state-wise hotspots.
 
-▪️Clear, interpretable charts using seaborn and matplotlib.
+⚫Clear, interpretable charts using seaborn and matplotlib.
 
 # 🔑** Key Steps **
 ✳️Data Source: US Accidents (March 2023) on Kaggle
