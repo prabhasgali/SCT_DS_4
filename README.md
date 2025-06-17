@@ -25,8 +25,11 @@ Exploratory Data Analysis and insightful visualizations on a real-world Traffic 
 
 # **🔑 Key Steps*
 ✳️ Data Source: Traffic Accident Dataset (Kaggle)
+
 ✳️ Preprocessing: Handle missing values and extract time-based insights
+
 ✳️ Visualization: Count plots for weather, hourly distribution, and road surface type
+
 ✳️ Insights: Spot accident hotspots and understand risk factors
 
 # **🛠️ Tools Used*
